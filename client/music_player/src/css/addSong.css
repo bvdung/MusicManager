@@ -1,0 +1,18 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+}
+
+.btnAdd{
+    width: 10%;
+}
+
+.input-name_add-song{
+    display: inline-block;
+    width: 90.5%;
+    
+}

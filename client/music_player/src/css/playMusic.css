@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+
+#audioFile{
+    text-align: center;
+}
+
+#audioFile audio{
+    width: 100%;
+    background-color: blue;
+}
+
+.btn-edit-delete-playMusic{
+    text-align: end;
+}
+
+.btn-edit-playMusic{
+    width: 11%;
+    
+}
+
+.btn-delete-playMusic{
+    width: 11%;
+}

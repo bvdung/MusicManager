@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+    background-color:lightgray;
+}
+
+.pageSize_currentPage{
+    text-align: center;
+}
+
+.total_selectedItem{
+    display: inline-block; 
+}
+
+.pageSize{
+    display: inline-block; 
+}
+
+.pageSize select{
+    display: inline-block;
+}
+
+.currentPage{
+    display: inline-block;
+}
+
+.currentPage input{
+    display: inline-block;
+    border: none;
+}
+
+
+
+.container_add_delete_search{
+    padding: 0px;
+    margin: 0px;
+}
+
+.add_delete{
+    display: inline-block;
+}
+
+.form_search{
+    display: inline-block;
+    
+}
+
+
+.form_search .container_btn-search_input-search{
+    margin-left: 10rem;
+}
+
+.form_search #search{
+    height: 28px;
+    padding: 0px;
+    padding-left: 4px;
+    border: none;
+    outline: none;
+}
+
+.form_search .lb_ip_search{
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.form_search .btn-search{
+   margin-bottom: 6px;
+   margin-left: 5px;
+   width: 21%;
+   font-size: 14px;
+}
+
+.btn-play-home{
+    width: 40%;
+}
+
+.btn-edit-home{
+    width: 40%;
+}
+
+.container-play-edit-btn{
+   text-align: center;
+}
+
